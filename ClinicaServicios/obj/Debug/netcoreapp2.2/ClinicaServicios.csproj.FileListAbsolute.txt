@@ -1,0 +1,14 @@
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\bin\Debug\netcoreapp2.2\ClinicaServicios.deps.json
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\bin\Debug\netcoreapp2.2\ClinicaServicios.runtimeconfig.json
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\bin\Debug\netcoreapp2.2\ClinicaServicios.runtimeconfig.dev.json
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\bin\Debug\netcoreapp2.2\ClinicaServicios.dll
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\bin\Debug\netcoreapp2.2\ClinicaServicios.pdb
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.csprojAssemblyReference.cache
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.csproj.CoreCompileInputs.cache
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.RazorAssemblyInfo.cache
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.RazorAssemblyInfo.cs
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.AssemblyInfoInputs.cache
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.AssemblyInfo.cs
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.RazorTargetAssemblyInfo.cache
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.dll
+C:\dev\Clinica\Clinica_Servidor\ClinicaServicios\obj\Debug\netcoreapp2.2\ClinicaServicios.pdb
